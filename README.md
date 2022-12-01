@@ -4,7 +4,7 @@ By: Esteban Gaviria.
 
 Version: 0.1.0
 
-Lear to manage paths
+Learn to manage paths
 
 ## Prerequisites
 
